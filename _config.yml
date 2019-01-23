@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: Bessie Tao
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
@@ -15,7 +15,7 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
+url:            ''
 author:         'Your Name'
 authorTwitter:  'YourTwitterUsername'
 
